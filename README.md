@@ -1,3 +1,4 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=10110100010100011110001010)](https://git.io/typing-svg)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=koo1140&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=koo1140&theme=github_dark&hide_border=false)<br/>
