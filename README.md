@@ -1,4 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=10110100010100011110001010)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/koo1140/random/refs/heads/main/a.svg" width="450" alt="Animated Neural Network">
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=koo1140&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=koo1140&theme=github_dark&hide_border=false)<br/>
