@@ -1,5 +1,5 @@
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=10110100010100011110001010)](https://git.io/typing-svg)
-https://vordex.netlify.app/
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/koo1140/random/refs/heads/main/a.svg" width="450" alt="Animated Neural Network">
 </p>
